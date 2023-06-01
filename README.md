@@ -1,1 +1,2 @@
-# CS3201_SocketProgramming
+# Socket_Programming
+# Using Java to build a mutual chatroom application (with multi-threading)
